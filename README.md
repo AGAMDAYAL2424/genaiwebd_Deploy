@@ -123,6 +123,8 @@ This prototype serves as a strong foundation. Given more time, we plan to build 
 Our vision for RAD AI is to democratize legal understanding. By leveraging the power of Generative AI, we can provide a crucial service that protects individuals from legal and financial risks, helps them negotiate better terms, and gives them the confidence to understand the documents that govern their lives.
 
 
+This is our protype demo video link:
+https://youtu.be/5AASjes54UE
 
 Thank you for your time and consideration. We are excited about the future of RAD AI and believe it has the potential to make a significant positive impact.
 
