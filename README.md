@@ -136,3 +136,4 @@ Thank you for your time and consideration. We are excited about the future of RA
 
 \*\*\*We are using our free gemini API currently so the tokens are limited currently\*\*\*
 
+thank u
